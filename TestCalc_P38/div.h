@@ -1,2 +1,2 @@
 #pragma once
-int div(int a, int b);
+int quot(int a, int b);
