@@ -183,12 +183,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dif.cpp" />
+    <ClCompile Include="div.cpp" />
     <ClCompile Include="prod.cpp" />
     <ClCompile Include="sum.cpp" />
     <ClCompile Include="TestCalc_P38.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dif.h" />
+    <ClInclude Include="div.h" />
     <ClInclude Include="prod.h" />
     <ClInclude Include="sum.h" />
   </ItemGroup>
