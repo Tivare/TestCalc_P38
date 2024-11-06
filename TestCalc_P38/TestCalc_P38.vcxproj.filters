@@ -18,5 +18,25 @@
     <ClCompile Include="TestCalc_P38.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dif.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dif.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
